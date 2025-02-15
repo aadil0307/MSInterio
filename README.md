@@ -1,6 +1,6 @@
 <img align="left" style="margin-top:25px" width="60" height="60" src="assets/img/logo1.png">
 
-#MSInterio
+# MSInterio
 
 <h2>📌 Overview</h2>
 <p>MSInterio is a modern, responsive website for an interior design firm, developed using <strong>HTML, Bootstrap, and jQuery</strong>. It showcases the firm's portfolio, services, and design expertise while ensuring a seamless user experience across all devices.</p>
