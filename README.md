@@ -32,7 +32,7 @@
 <ul>
     <li><strong>Frontend:</strong> HTML, CSS, Bootstrap, jQuery</li>
     <li><strong>Animations:</strong> jQuery, AOS (Animate on Scroll)</li>
-    <li><strong>Forms:</strong> PHP (for backend email handling, if applicable)</li>
+    <li><strong>Forms:</strong> PHP (for backend email handling)</li>
     <li><strong>Hosting:</strong> Deployed on a live server</li>
 </ul>
 
